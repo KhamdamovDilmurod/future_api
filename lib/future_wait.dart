@@ -1,6 +1,9 @@
 
 void main() async {
-  final sw = Stopwatch()..start(); // 1
+  final sw = Stopwatch()..start();
+
+  // 1
+
   // await doSomeImportantWork();
   // await doSomeImportantWork();
   // await doSomeImportantWork();
